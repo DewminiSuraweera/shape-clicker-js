@@ -1,1 +1,1 @@
-# This Repo represent a simple shape clicking game using javascript
+# This Repo represents a simple shape clicking game using javascript
